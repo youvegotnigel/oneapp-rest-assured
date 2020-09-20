@@ -1,0 +1,4 @@
+ddt\DataDrivenTestingEx01.class
+test\StaticImports.class
+ddt\DataProvider.class
+test\MyFirstRestAssuredTest.class
