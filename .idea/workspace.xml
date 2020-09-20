@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af466264-675c-450c-b3bb-dc357fa5737a" name="Default Changelist" comment="" />
+    <list default="true" id="af466264-675c-450c-b3bb-dc357fa5737a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -402,7 +404,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600493357944</updated>
       <workItem from="1600493361665" duration="1733000" />
-      <workItem from="1600495111683" duration="29112000" />
+      <workItem from="1600495111683" duration="29502000" />
     </task>
     <servers />
   </component>

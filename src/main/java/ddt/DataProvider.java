@@ -12,10 +12,10 @@ public class DataProvider {
                 {"ugl-ftml-unit1", "ugl-ftml-unit1", "day_shift_D_2020-09-19"},
                 {"ugl-ftml-unit1", "ugl-ftml-unit1", "day_shift_D_2020-09-18"},
                 {"bhg-knit", "bhg-knit", "day_shift_D_2020-09-20"},
-                {"bhg-knit", "bhg-knit", "day_shift_D_2020-09-18"},
+                {"bhg-knit", "bhg-knit", "day_shift_D_2020-09-19"},
                 {"bhg-knit", "bhg-knit", "day_shift_D_2020-09-18"},
                 {"pds-paba", "pds-paba", "day_shift_D_2020-09-20"},
-                {"pds-paba", "pds-paba", "day_shift_D_2020-09-18"},
+                {"pds-paba", "pds-paba", "day_shift_D_2020-09-19"},
                 {"pds-paba", "pds-paba", "day_shift_D_2020-09-18"}
         };
     }
