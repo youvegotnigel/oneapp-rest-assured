@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af466264-675c-450c-b3bb-dc357fa5737a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -404,7 +405,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600493357944</updated>
       <workItem from="1600493361665" duration="1733000" />
-      <workItem from="1600495111683" duration="29502000" />
+      <workItem from="1600495111683" duration="29811000" />
     </task>
     <servers />
   </component>
@@ -436,22 +437,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600584172549" />
-    <state width="1876" height="404" key="GridCell.Tab.0.bottom" timestamp="1600591575724">
+    <state width="1876" height="404" key="GridCell.Tab.0.bottom" timestamp="1600592768961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="404" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600591575724" />
-    <state width="1876" height="404" key="GridCell.Tab.0.center" timestamp="1600591575724">
+    <state width="1876" height="404" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600592768961" />
+    <state width="1876" height="404" key="GridCell.Tab.0.center" timestamp="1600592768961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="404" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600591575724" />
-    <state width="1876" height="404" key="GridCell.Tab.0.left" timestamp="1600591575724">
+    <state width="1876" height="404" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600592768961" />
+    <state width="1876" height="404" key="GridCell.Tab.0.left" timestamp="1600592768960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="404" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600591575724" />
-    <state width="1876" height="404" key="GridCell.Tab.0.right" timestamp="1600591575724">
+    <state width="1876" height="404" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600592768960" />
+    <state width="1876" height="404" key="GridCell.Tab.0.right" timestamp="1600592768961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="404" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600591575724" />
+    <state width="1876" height="404" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600592768961" />
     <state x="490" y="173" key="Maven.ArtifactSearchDialog" timestamp="1600495167680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
