@@ -1,8 +1,9 @@
 package ddt;
+import org.testng.annotations.DataProvider;
 
-public class DataProvider {
+public class DataForTests {
 
-    @org.testng.annotations.DataProvider(name = "dataForPost")
+    @DataProvider(name = "dataForPost")
     public static Object[][] dataForPost() {
         return new Object[][]{
                 {"ant-aal-aepz", "ant-aal-aepz", "8_5shift_D_2020-09-20"},

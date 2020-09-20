@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 
-public class DataDrivenTestingEx01 extends DataProvider {
+public class DataDrivenTestingEx01 extends DataForTests {
 
 
     @Test (dataProvider = "dataForPost")

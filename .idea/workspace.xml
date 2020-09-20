@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="af466264-675c-450c-b3bb-dc357fa5737a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ddt/DataDrivenTestingEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ddt/DataDrivenTestingEx01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ddt/DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ddt/DataForTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +406,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600493357944</updated>
       <workItem from="1600493361665" duration="1733000" />
-      <workItem from="1600495111683" duration="29811000" />
+      <workItem from="1600495111683" duration="33855000" />
     </task>
     <servers />
   </component>
