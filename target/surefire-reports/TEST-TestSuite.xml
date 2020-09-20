@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="19.871" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="25.755" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\MSI-PS42\AppData\Local\Temp\surefire1180729010151261226\surefirebooter13223423871951633637.jar C:\Users\MSI-PS42\AppData\Local\Temp\surefire1180729010151261226 2020-09-20T13-06-39_102-jvmRun1 surefire5133588144527764662tmp surefire_02318389091914460971tmp"/>
+    <property name="sun.java.command" value="C:\Users\MSI-PS42\AppData\Local\Temp\surefire4580237405257376911\surefirebooter9063529250299585804.jar C:\Users\MSI-PS42\AppData\Local\Temp\surefire4580237405257376911 2020-09-20T14-15-33_394-jvmRun1 surefire16491971033110622691tmp surefire_04166372981885122247tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Essentials\TestAutomationUniversity\restAssuredTest\target\test-classes;C:\Essentials\TestAutomationUniversity\restAssuredTest\target\classes;C:\Users\MSI-PS42\.m2\repository\io\rest-assured\rest-assured\4.3.0\rest-assured-4.3.0.jar;C:\Users\MSI-PS42\.m2\repository\org\codehaus\groovy\groovy\3.0.2\groovy-3.0.2.jar;C:\Users\MSI-PS42\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.2\groovy-xml-3.0.2.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\MSI-PS42\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\MSI-PS42\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\MSI-PS42\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\MSI-PS42\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\MSI-PS42\.m2\repository\io\rest-assured\json-path\4.3.0\json-path-4.3.0.jar;C:\Users\MSI-PS42\.m2\repository\org\codehaus\groovy\groovy-json\3.0.2\groovy-json-3.0.2.jar;C:\Users\MSI-PS42\.m2\repository\io\rest-assured\rest-assured-common\4.3.0\rest-assured-common-4.3.0.jar;C:\Users\MSI-PS42\.m2\repository\io\rest-assured\xml-path\4.3.0\xml-path-4.3.0.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\MSI-PS42\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.2\jakarta.xml.bind-api-2.3.2.jar;C:\Users\MSI-PS42\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.1\jakarta.activation-api-1.2.1.jar;C:\Users\MSI-PS42\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.3.0.1\jaxb-osgi-2.3.0.1.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\MSI-PS42\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\MSI-PS42\.m2\repository\io\rest-assured\json-schema-validator\4.3.1\json-schema-validator-4.3.1.jar;C:\Users\MSI-PS42\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.10\json-schema-validator-2.2.10.jar;C:\Users\MSI-PS42\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.10\json-schema-core-1.2.10.jar;C:\Users\MSI-PS42\.m2\repository\com\github\java-json-tools\jackson-coreutils\1.9\jackson-coreutils-1.9.jar;C:\Users\MSI-PS42\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.2.3\jackson-databind-2.2.3.jar;C:\Users\MSI-PS42\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.2.3\jackson-annotations-2.2.3.jar;C:\Users\MSI-PS42\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.2.3\jackson-core-2.2.3.jar;C:\Users\MSI-PS42\.m2\repository\com\github\fge\msg-simple\1.1\msg-simple-1.1.jar;C:\Users\MSI-PS42\.m2\repository\com\github\fge\btf\1.2\btf-1.2.jar;C:\Users\MSI-PS42\.m2\repository\com\github\fge\uri-template\0.9\uri-template-0.9.jar;C:\Users\MSI-PS42\.m2\repository\org\mozilla\rhino\1.7.7.1\rhino-1.7.7.1.jar;C:\Users\MSI-PS42\.m2\repository\javax\mail\mailapi\1.4.3\mailapi-1.4.3.jar;C:\Users\MSI-PS42\.m2\repository\joda-time\joda-time\2.9.7\joda-time-2.9.7.jar;C:\Users\MSI-PS42\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.0.0\libphonenumber-8.0.0.jar;C:\Users\MSI-PS42\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\MSI-PS42\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\MSI-PS42\.m2\repository\org\testng\testng\7.3.0\testng-7.3.0.jar;C:\Users\MSI-PS42\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\ant\ant\1.10.3\ant-1.10.3.jar;C:\Users\MSI-PS42\.m2\repository\org\apache\ant\ant-launcher\1.10.3\ant-launcher-1.10.3.jar;C:\Users\MSI-PS42\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\MSI-PS42\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\MSI-PS42\.m2\repository\com\google\inject\guice\4.2.2\guice-4.2.2-no_aop.jar;C:\Users\MSI-PS42\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\MSI-PS42\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\MSI-PS42\.m2\repository\com\google\guava\guava\25.1-android\guava-25.1-android.jar;C:\Users\MSI-PS42\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\MSI-PS42\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\MSI-PS42\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\MSI-PS42\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\MSI-PS42\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\MSI-PS42\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\MSI-PS42\AppData\Local\Temp\surefire1180729010151261226\surefirebooter13223423871951633637.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\MSI-PS42\AppData\Local\Temp\surefire4580237405257376911\surefirebooter9063529250299585804.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11+28"/>
@@ -53,6 +53,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
+    <property name="idea.version2019.3.4" value="true"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Python38-32\Scripts\;C:\Program Files (x86)\Python38-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-11\jdk-11\bin;C:\Program Files\Java\jdk-11\jdk1.8.0_211\bin;C:\Program Files\Java\jdk1.8.0_211\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\MongoDB\Server\4.0\bin;C:\Program Files\nodejs\;C:\Users\MSI-PS42\AppData\Roaming\npm;C:\Program Files (x86)\apache-maven-3.6.2\bin;C:\allure\allure-2.12.0\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Python38-32\Scripts;C:\Program Files (x86)\Python38-32\Lib\site-packages;C:\Users\MSI-PS42\AppData\Roaming\Python\Python38\Scripts;C:\Users\MSI-PS42\AppData\Roaming\Python\Python38\site-packages;C:\usr\local\bin;C:\Program Files\Gauge\bin;C:\Program Files\k6\;%ANDROID_HOME%;%ANDROID_HOME%\platform-tools;C:\Android\tools\platform-tools;C:\Users\MSI-PS42\AppData\Local\Microsoft\WindowsApps;C:\Users\MSI-PS42\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\MSI-PS42\AppData\Roaming\npm;C:\Users\MSI-PS42\AppData\Local\Programs\Fiddler;C:\Users\MSI-PS42\AppData\Local\GitHubDesktop\bin;."/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode"/>
@@ -60,10 +61,191 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="test_post[ant-aal-aepz, ant-aal-aepz, 8_5shift_D_2020-09-19](1)" classname="ddt.DataDrivenTestingEx01" time="5.525">
+  <testcase name="test_post[ant-aal-aepz, ant-aal-aepz, 8_5shift_D_2020-09-20](1)" classname="ddt.DataDrivenTestingEx01" time="3.794">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:42 GMT
+Date: Sun, 20 Sep 2020 08:45:38 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Expose-Headers: Content-Length,Content-Range
+
+{
+    "schedule": [
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "1",
+            "endtime": "09:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "08:00",
+            "starttimeepoch": "1600567200000",
+            "type": "WK",
+            "endtimeepoch": "1600570800000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "2",
+            "endtime": "10:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "09:00",
+            "starttimeepoch": "1600570800000",
+            "type": "WK",
+            "endtimeepoch": "1600574400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "3",
+            "endtime": "11:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "10:00",
+            "starttimeepoch": "1600574400000",
+            "type": "WK",
+            "endtimeepoch": "1600578000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "4",
+            "endtime": "12:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "11:00",
+            "starttimeepoch": "1600578000000",
+            "type": "WK",
+            "endtimeepoch": "1600581600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "5",
+            "endtime": "13:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "12:00",
+            "starttimeepoch": "1600581600000",
+            "type": "WK",
+            "endtimeepoch": "1600585200000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "13:30",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "13:00",
+            "starttimeepoch": "1600585200000",
+            "type": "WK",
+            "endtimeepoch": "1600587000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "BREAK",
+            "sessionblock": "6",
+            "endtime": "14:30",
+            "description": "lunch",
+            "overtime": "1",
+            "starttime": "13:30",
+            "starttimeepoch": "1600587000000",
+            "type": "NOWK",
+            "endtimeepoch": "1600590600000",
+            "applycalc": "0"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "15:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "14:30",
+            "starttimeepoch": "1600590600000",
+            "type": "WK",
+            "endtimeepoch": "1600592400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "7",
+            "endtime": "16:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "15:00",
+            "starttimeepoch": "1600592400000",
+            "type": "WK",
+            "endtimeepoch": "1600596000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "8",
+            "endtime": "17:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "16:00",
+            "starttimeepoch": "1600596000000",
+            "type": "WK",
+            "endtimeepoch": "1600599600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "9",
+            "endtime": "18:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "17:00",
+            "starttimeepoch": "1600599600000",
+            "type": "WK",
+            "endtimeepoch": "1600603200000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "10",
+            "endtime": "19:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "18:00",
+            "starttimeepoch": "1600603200000",
+            "type": "WK",
+            "endtimeepoch": "1600606800000",
+            "applycalc": "1"
+        }
+    ],
+    "subjects": [
+        "ant"
+    ],
+    "subject_key": "ant-aal-aepz",
+    "schedule_name": "system_assign",
+    "schedule_id": "8_5shift"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_post[ant-aal-aepz, ant-aal-aepz, 8_5shift_D_2020-09-19](2)" classname="ddt.DataDrivenTestingEx01" time="1.963">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 20 Sep 2020 08:45:40 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -241,10 +423,10 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[ant-aal-aepz, ant-aal-aepz, 8_5shift_D_2020-09-18](2)" classname="ddt.DataDrivenTestingEx01" time="1.918">
+  <testcase name="test_post[ant-aal-aepz, ant-aal-aepz, 8_5shift_D_2020-09-18](3)" classname="ddt.DataDrivenTestingEx01" time="1.981">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:44 GMT
+Date: Sun, 20 Sep 2020 08:45:42 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -422,10 +604,87 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[ugl-ftml-unit1, ugl-ftml-unit1, day_shift_D_2020-09-19](3)" classname="ddt.DataDrivenTestingEx01" time="1.235">
+  <testcase name="test_post[ugl-ftml-unit1, ugl-ftml-unit1, day_shift_D_2020-09-20](4)" classname="ddt.DataDrivenTestingEx01" time="1.934">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:46 GMT
+Date: Sun, 20 Sep 2020 08:45:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Expose-Headers: Content-Length,Content-Range
+
+{
+    "schedule": [
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "1",
+            "endtime": "09:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "08:00",
+            "starttimeepoch": "1600567200000",
+            "type": "WK",
+            "endtimeepoch": "1600570800000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "2",
+            "endtime": "10:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "09:00",
+            "starttimeepoch": "1600570800000",
+            "type": "WK",
+            "endtimeepoch": "1600574400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "3",
+            "endtime": "11:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "10:00",
+            "starttimeepoch": "1600574400000",
+            "type": "WK",
+            "endtimeepoch": "1600578000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "660",
+            "subtype": "WORK",
+            "sessionblock": "4",
+            "endtime": "22:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "11:00",
+            "starttimeepoch": "1600578000000",
+            "type": "WK",
+            "endtimeepoch": "1600617600000",
+            "applycalc": "1"
+        }
+    ],
+    "subjects": [
+        "ugl"
+    ],
+    "subject_key": "ugl-ftml-unit1",
+    "schedule_name": "system_assign",
+    "schedule_id": "day_shift"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_post[ugl-ftml-unit1, ugl-ftml-unit1, day_shift_D_2020-09-19](5)" classname="ddt.DataDrivenTestingEx01" time="1.985">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 20 Sep 2020 08:45:46 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -499,10 +758,10 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[ugl-ftml-unit1, ugl-ftml-unit1, day_shift_D_2020-09-18](4)" classname="ddt.DataDrivenTestingEx01" time="2.025">
+  <testcase name="test_post[ugl-ftml-unit1, ugl-ftml-unit1, day_shift_D_2020-09-18](6)" classname="ddt.DataDrivenTestingEx01" time="1.97">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:48 GMT
+Date: Sun, 20 Sep 2020 08:45:48 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -576,10 +835,178 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[bhg-knit, bhg-knit, day_shift_D_2020-09-18](5)" classname="ddt.DataDrivenTestingEx01" time="2.638">
+  <testcase name="test_post[bhg-knit, bhg-knit, day_shift_D_2020-09-20](7)" classname="ddt.DataDrivenTestingEx01" time="1.921">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:50 GMT
+Date: Sun, 20 Sep 2020 08:45:50 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Expose-Headers: Content-Length,Content-Range
+
+{
+    "schedule": [
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "1",
+            "endtime": "09:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "08:00",
+            "starttimeepoch": "1600567200000",
+            "type": "WK",
+            "endtimeepoch": "1600570800000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "2",
+            "endtime": "10:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "09:00",
+            "starttimeepoch": "1600570800000",
+            "type": "WK",
+            "endtimeepoch": "1600574400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "3",
+            "endtime": "11:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "10:00",
+            "starttimeepoch": "1600574400000",
+            "type": "WK",
+            "endtimeepoch": "1600578000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "4",
+            "endtime": "12:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "11:00",
+            "starttimeepoch": "1600578000000",
+            "type": "WK",
+            "endtimeepoch": "1600581600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "5",
+            "endtime": "13:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "12:00",
+            "starttimeepoch": "1600581600000",
+            "type": "WK",
+            "endtimeepoch": "1600585200000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "13:30",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "13:00",
+            "starttimeepoch": "1600585200000",
+            "type": "WK",
+            "endtimeepoch": "1600587000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "BREAK",
+            "sessionblock": "6",
+            "endtime": "14:30",
+            "description": "BREAK",
+            "overtime": "0",
+            "starttime": "13:30",
+            "starttimeepoch": "1600587000000",
+            "type": "NOWK",
+            "endtimeepoch": "1600590600000",
+            "applycalc": "0"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "15:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "14:30",
+            "starttimeepoch": "1600590600000",
+            "type": "WK",
+            "endtimeepoch": "1600592400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "7",
+            "endtime": "16:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "15:00",
+            "starttimeepoch": "1600592400000",
+            "type": "WK",
+            "endtimeepoch": "1600596000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "8",
+            "endtime": "17:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "16:00",
+            "starttimeepoch": "1600596000000",
+            "type": "WK",
+            "endtimeepoch": "1600599600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "9",
+            "endtime": "18:00",
+            "description": "WORK",
+            "overtime": "0",
+            "starttime": "17:00",
+            "starttimeepoch": "1600599600000",
+            "type": "WK",
+            "endtimeepoch": "1600603200000",
+            "applycalc": "1"
+        }
+    ],
+    "subjects": [
+        "bhg"
+    ],
+    "subject_key": "bhg-knit",
+    "schedule_name": "system_assign",
+    "schedule_id": "day_shift"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_post[bhg-knit, bhg-knit, day_shift_D_2020-09-18](8)" classname="ddt.DataDrivenTestingEx01" time="1.984">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 20 Sep 2020 08:45:52 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -744,10 +1171,10 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[bhg-knit, bhg-knit, day_shift_D_2020-09-18](6)" classname="ddt.DataDrivenTestingEx01" time="2.075">
+  <testcase name="test_post[bhg-knit, bhg-knit, day_shift_D_2020-09-18](9)" classname="ddt.DataDrivenTestingEx01" time="1.936">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:52 GMT
+Date: Sun, 20 Sep 2020 08:45:54 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -912,10 +1339,191 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[pds-paba, pds-paba, day_shift_D_2020-09-18](7)" classname="ddt.DataDrivenTestingEx01" time="1.989">
+  <testcase name="test_post[pds-paba, pds-paba, day_shift_D_2020-09-20](10)" classname="ddt.DataDrivenTestingEx01" time="1.926">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:54 GMT
+Date: Sun, 20 Sep 2020 08:45:56 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Expose-Headers: Content-Length,Content-Range
+
+{
+    "schedule": [
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "1",
+            "endtime": "09:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "08:00",
+            "starttimeepoch": "1600567200000",
+            "type": "WK",
+            "endtimeepoch": "1600570800000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "2",
+            "endtime": "10:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "09:00",
+            "starttimeepoch": "1600570800000",
+            "type": "WK",
+            "endtimeepoch": "1600574400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "3",
+            "endtime": "11:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "10:00",
+            "starttimeepoch": "1600574400000",
+            "type": "WK",
+            "endtimeepoch": "1600578000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "4",
+            "endtime": "12:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "11:00",
+            "starttimeepoch": "1600578000000",
+            "type": "WK",
+            "endtimeepoch": "1600581600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "5",
+            "endtime": "13:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "12:00",
+            "starttimeepoch": "1600581600000",
+            "type": "WK",
+            "endtimeepoch": "1600585200000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "13:30",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "13:00",
+            "starttimeepoch": "1600585200000",
+            "type": "WK",
+            "endtimeepoch": "1600587000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "BREAK",
+            "sessionblock": "6",
+            "endtime": "14:30",
+            "description": "lunch",
+            "overtime": "1",
+            "starttime": "13:30",
+            "starttimeepoch": "1600587000000",
+            "type": "NOWK",
+            "endtimeepoch": "1600590600000",
+            "applycalc": "0"
+        },
+        {
+            "duration": "30",
+            "subtype": "WORK",
+            "sessionblock": "6",
+            "endtime": "15:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "14:30",
+            "starttimeepoch": "1600590600000",
+            "type": "WK",
+            "endtimeepoch": "1600592400000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "7",
+            "endtime": "16:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "15:00",
+            "starttimeepoch": "1600592400000",
+            "type": "WK",
+            "endtimeepoch": "1600596000000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "8",
+            "endtime": "17:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "16:00",
+            "starttimeepoch": "1600596000000",
+            "type": "WK",
+            "endtimeepoch": "1600599600000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "9",
+            "endtime": "18:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "17:00",
+            "starttimeepoch": "1600599600000",
+            "type": "WK",
+            "endtimeepoch": "1600603200000",
+            "applycalc": "1"
+        },
+        {
+            "duration": "60",
+            "subtype": "WORK",
+            "sessionblock": "10",
+            "endtime": "19:00",
+            "description": "work",
+            "overtime": "1",
+            "starttime": "18:00",
+            "starttimeepoch": "1600603200000",
+            "type": "WK",
+            "endtimeepoch": "1600606800000",
+            "applycalc": "1"
+        }
+    ],
+    "subjects": [
+        "pds"
+    ],
+    "subject_key": "pds-paba",
+    "schedule_name": "system_assign",
+    "schedule_id": "day_shift"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="test_post[pds-paba, pds-paba, day_shift_D_2020-09-18](11)" classname="ddt.DataDrivenTestingEx01" time="1.934">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Sun, 20 Sep 2020 08:45:57 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -1093,10 +1701,10 @@ Access-Control-Expose-Headers: Content-Length,Content-Range
 }
 ]]></system-out>
   </testcase>
-  <testcase name="test_post[pds-paba, pds-paba, day_shift_D_2020-09-18](8)" classname="ddt.DataDrivenTestingEx01" time="2.034">
+  <testcase name="test_post[pds-paba, pds-paba, day_shift_D_2020-09-18](12)" classname="ddt.DataDrivenTestingEx01" time="1.942">
     <system-out><![CDATA[HTTP/1.1 200 OK
 Server: nginx/1.10.3 (Ubuntu)
-Date: Sun, 20 Sep 2020 07:36:56 GMT
+Date: Sun, 20 Sep 2020 08:45:59 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
