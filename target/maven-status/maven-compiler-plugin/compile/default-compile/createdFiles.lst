@@ -1,4 +1,5 @@
 ddt\DataDrivenTestingEx01.class
 test\StaticImports.class
-ddt\DataProvider.class
+ddt\DataForTests.class
 test\MyFirstRestAssuredTest.class
+utills\ExtentReportForTestNG.class

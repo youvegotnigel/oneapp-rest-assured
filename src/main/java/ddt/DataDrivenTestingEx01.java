@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.*;
 public class DataDrivenTestingEx01 extends DataForTests {
 
 
-    @Test (dataProvider = "dataForPost")
+    @Test (dataProvider = "dataForGetSchedule")
     public void test_post(String subject_key, String subject, String shift_id) {
 
         JSONObject request = new JSONObject();
